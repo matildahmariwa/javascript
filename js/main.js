@@ -10,7 +10,7 @@ let
 
 function addTo() {
 
-    // Create an Object literal with out event dara
+    // Create an Object literal with out event data
     let obj = {
         name: EL_name.value,
         subject: EL_subject.value,
