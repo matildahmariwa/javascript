@@ -11,7 +11,7 @@
 </head>
 <body>
 <h1>Create schedule</h1>
-<form action="" method="POST" onsubmit="return false">
+<form action="" method="POST" id="frm1" onsubmit="return false">
     <div class="form-group">
         <label for="Name">Teachers Name</label> <br>
         <input class="form-control" name="name" id="name">
@@ -31,7 +31,9 @@
     </div>
 
     <!--Other fields-->
-    <button  class="btn btn-primary" id="add" onclick="addTo(this.body)">Create</button>
+<!--    <button  class="btn btn-primary" id="add" onclick="addTo(this.body)" >Create</button>-->
+    <button  class="btn btn-primary" type="submit" id="add"  onclick="create()" >Create</button>
+
 </form>
 <table id="table">
     <tr>
