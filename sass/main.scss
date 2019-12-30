@@ -1,6 +1,10 @@
 $base-color: #00FFEF;
 
 body{
+  h1{
+    padding-left:400px;
+    text-decoration: underline;
+  }
 form{
   margin-left: 300px;
   border-top: 1px solid #00FFEF;
@@ -44,4 +48,11 @@ form{
   }
 
 }
+  table{
+    width: 100%;
+    margin-top: 20px;
+    th{
+      background-color:$base-color;
+    }
+  }
 }

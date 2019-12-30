@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30fb8596-28e1-40b6-a767-7b33669ca5d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tests/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/create.html" beforeDir="false" afterPath="$PROJECT_DIR$/create.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/karma.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +42,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -63,7 +71,10 @@
       <updated>1577043710738</updated>
       <workItem from="1577043712061" duration="6745000" />
       <workItem from="1577126272083" duration="8011000" />
-      <workItem from="1577177950014" duration="10104000" />
+      <workItem from="1577177950014" duration="10603000" />
+      <workItem from="1577603110032" duration="3382000" />
+      <workItem from="1577612804676" duration="520000" />
+      <workItem from="1577618771858" duration="8954000" />
     </task>
     <servers />
   </component>
@@ -71,10 +82,18 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577612718945">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1577612718945" />
     <state x="225" y="185" key="EditFileWatcherDialog" timestamp="1577077373235">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="225" y="185" key="EditFileWatcherDialog/0.0.1280.800@0.0.1280.800" timestamp="1577077373235" />
+    <state x="149" y="39" key="SettingsEditor" timestamp="1577612775522">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="149" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1577612775522" />
     <state x="298" y="22" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1577176023165">
       <screen x="0" y="0" width="1280" height="800" />
     </state>

@@ -1,3 +1,6 @@
+body h1 {
+  padding-left: 400px;
+  text-decoration: underline; }
 body form {
   margin-left: 300px;
   border-top: 1px solid #00FFEF;
@@ -33,5 +36,10 @@ body form {
     margin-bottom: 10px; }
     body form .form-group label {
       margin-bottom: 10px !important; }
+body table {
+  width: 100%;
+  margin-top: 20px; }
+  body table th {
+    background-color: #00FFEF; }
 
 /*# sourceMappingURL=main.css.map */
